@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-“What doesn't break my code only makes me a better developer.”
+<em>“What doesn't break my code only makes me a better developer.”</em>
 </p>
 
 
