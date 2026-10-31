@@ -22,11 +22,11 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 *who I am ?*  — a Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools..
 
-I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is on strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
+*what else ?* — I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is on strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+*what now ?* — Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
-My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
+*My Nindo* — Write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 
 <br clear="right"/>
 
