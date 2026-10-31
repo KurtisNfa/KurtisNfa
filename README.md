@@ -20,7 +20,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-*who I am ?*  — a Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools..
+*who I am ?*  — A Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools..
 
 *what else ?* — I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is on strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
 
