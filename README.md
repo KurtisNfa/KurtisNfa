@@ -30,7 +30,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 *My Nindo* — Write clean shit, Grind like Elon, Keep building solutions, Find the One Piece.
 </p>
 
-<p align="center" width="200">
+<p align="center" width="200" style="font-family: 'Times New Roman';">
 Nulla dies sine codice.
 </p>
 
