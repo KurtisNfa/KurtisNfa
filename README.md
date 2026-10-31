@@ -18,7 +18,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 ##  <h2 align="center">🚀 HELLO WORLD </h2>
 
-<img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
+<img align="right" src="Dev_drinking.png" width="280" alt="Developer Illustration"/>
 
 *who I am ?*  — A Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools..
 
