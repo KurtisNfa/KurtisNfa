@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+NULLA DIES SINE CODICE
 </p>
 
 
