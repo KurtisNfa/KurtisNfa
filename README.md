@@ -34,14 +34,9 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 <br/>
 
-<p align="center" style="
-    font-family: 'Times New Roman', serif;
-    font-size: 28px;
-    font-weight: bold;
-    margin-top: 30px;
-">
-    <em>Nulla dies sine codice.</em>
-</p>
+<h1 align="center">
+  <i>Nulla dies sine codice.</i>
+</h1>
 
 <br clear="right"/>
 
