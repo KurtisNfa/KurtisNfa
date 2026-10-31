@@ -34,9 +34,9 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 <br/>
 
-<p align="center" width="120px">
+<h2 align="center">
   <i>Nulla dies sine codice.</i>
-</p>
+</h2>
 
 <br clear="right"/>
 
