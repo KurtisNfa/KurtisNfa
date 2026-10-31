@@ -20,16 +20,16 @@
 
 <img align="right" src="Dev_drinking_ASCI.png" width="280" alt="Developer Illustration"/>
 
-### *Who I am?* 👨‍💻
+### 👨‍💻 *Who I am?*
 A Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools.
 
-### *What else?* 🧩
+### 🧩 *What else?*
 I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
 
-### *What now?* 🧪
+### 🧪 *What now?*
 Sharpening my skills in **Bash**, **Linux**, **Python**, **JavaScript**, **Machine Learning**, and **Docker**. I'm also improving my design skills with **Figma**, while expanding my knowledge of **Codex**, **Cursor**, **n8n**, and **WordPress**.
 
-### *My Nindo* 🌀
+### 🌀 *My Nindo*
 Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 <br/>
