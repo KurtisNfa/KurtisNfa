@@ -20,7 +20,7 @@
 
 <img align="right" src="Dev_drinking_ASCI.png" width="280" alt="Developer Illustration"/>
 
-### 👨‍💻*Who I am?*
+### *Who I am?* 👨‍💻
 A Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools.
 
 ### *What else?*
