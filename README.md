@@ -2,9 +2,10 @@
   <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hi 👋, Kurtis Nfa</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Junior Full Stack Developper</h3>
+<h3 align="center">📍Dakar, Senegal</h3>
 
 <p align="center">
   <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
@@ -19,9 +20,9 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+**Hello****World**, who I am ?  — a Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools..
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is on strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
 
 Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
 
