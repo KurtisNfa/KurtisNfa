@@ -18,20 +18,25 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 ##  <h2 align="center">🚀 HELLO WORLD </h2>
 
+HTML
 <img align="right" src="Dev_drinking_ASCI.png" width="280" alt="Developer Illustration"/>
 
-<p>
-*who I am ?*  — A Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools..
+### *Who I am?*
+A Software Engineering student at ISI, passionate about building web applications, developing software solutions, working with data, and exploring AI-powered development tools.
 
-*what else ?* — I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is on strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
+### *What else?*
+I enjoy learning new technologies, solving technical problems, and turning ideas into functional applications. My current focus is strengthening my skills in Python, JavaScript, SQL, backend development, API integration, and AI-assisted software development.
 
-*what now ?* — Sharpen my skills in **Bash**, **Linux**, **Python**, **JavaScript**, **Machine Learning**, **Docker** and all. I'm also improving my Design skills by using Data **Figma** while upgrading my knowledge of **Codex**, **Cursor**, **N8N** and **Wordpress**.
+### *What now?*
+Sharpening my skills in **Bash**, **Linux**, **Python**, **JavaScript**, **Machine Learning**, and **Docker**. I'm also improving my design skills with **Figma**, while expanding my knowledge of **Codex**, **Cursor**, **n8n**, and **WordPress**.
 
-*My Nindo* — Write clean shit, Grind like Elon, Keep building solutions, Find the One Piece.
-</p>
+### *My Nindo*
+Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
-<p align="center" width="200" style="font-family: 'Times New Roman';">
-Nulla dies sine codice.
+<br/>
+
+<p align="center">
+  <em>Nulla dies sine codice.</em>
 </p>
 
 <br clear="right"/>
