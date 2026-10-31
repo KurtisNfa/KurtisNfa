@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+“What doesn't break my code only makes me a better developer.”
 </p>
 
 
