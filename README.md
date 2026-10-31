@@ -18,7 +18,6 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 ##  <h2 align="center">🚀 HELLO WORLD </h2>
 
-HTML
 <img align="right" src="Dev_drinking_ASCI.png" width="280" alt="Developer Illustration"/>
 
 ### *Who I am?*
