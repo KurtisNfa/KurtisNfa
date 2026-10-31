@@ -27,7 +27,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 *what now ?* — Sharpen my skills in **Bash**, **Linux**, **Python**, **JavaScript**, **Machine Learning**, **Docker** and all. I'm also improving my Design skills by using Data **Figma** while upgrading my knowledge of **Codex**, **Cursor**, **N8N** and **Wordpress**.
 
-*My Nindo* — Write clean shit, Grind like Elon, Create sustainable and reliable solutions, Find the One Piece.
+*My Nindo* — Write clean shit, Grind like Elon, Keep building solutions, Find the One Piece.
 </p>
 
 <p align="center">
