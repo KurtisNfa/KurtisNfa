@@ -29,7 +29,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 *My Nindo* — Write clean shit, Grind like Elon, Create sustainable and reliable solutions, Find the One Piece.
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+Nulla dies sine codice.
 </p>
 
 <br clear="right"/>
