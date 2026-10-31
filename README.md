@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="git_banner_ASCI.png" alt="Banner" width="100%">
+  <img src="second_git_banner_ASCI.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, Kurtis Nfa</h1>
