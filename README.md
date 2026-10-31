@@ -2,7 +2,7 @@
   <img src="git_banner_ASCI.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, Kurtis Nfa</h1>
+<h1>Hi 👋, Kurtis Nfa</h1>
 
 <h3 align="center">Junior Full Stack Developper</h3>
 <h3 align="center">📍Dakar, Senegal</h3>
