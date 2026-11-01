@@ -104,7 +104,7 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 <h3 align="center">🎨 Design & Productivity</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=canva,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
