@@ -66,50 +66,29 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 ## <h2>Tech Stack</h2>
 
-<h3 align="center">🌐 Web Development</h3>
+<h3 align="center">⚡ Tech Stack</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,php" />
-  <br/>
-  <img src="https://cdn.simpleicons.org/elementor/92003B" height="45" alt="Elementor"/>
-  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="45" alt="Shopify"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,php,wordpress,shopify" />
 </p>
 
-<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,bash" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,java,c,cpp,cs" />
 </p>
 
-<h3 align="center">🗄️ Database & Version Control</h3>
+<h3 align="center">🤖 Tools & Technologies</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,kubernetes" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 </p>
 
-<h3 align="center">🤖 AI & Development Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge" />
+  <i>Junior Developer | Always Learning, Always Building 🚀</i>
 </p>
 
-<h3 align="center">⚙️ Backend, DevOps & Data</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,tensorflow" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Big%20Data-2563EB?style=for-the-badge" />
-</p>
-
-<h3 align="center">🎨 Design & Productivity</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-</p>
 
 ---
 
