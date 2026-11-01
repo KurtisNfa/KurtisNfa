@@ -5,10 +5,10 @@
 <h1>Codekage of the Byte</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer" alt="Junior Full Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer" alt="Junior Full Stack Developer" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=📍+Dakar,+Senegal" alt="📍 Dakar, Senegal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%93%8DDakar,+Senegal" alt="Dakar, Senegal" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 <br clear="right"/>
 
- <h2 align="center">🤝 Connect</h2>
+## <h2>Let's Connect</h2>
 
 <p align="center">
   <a href="https://github.com/midnightshady">
