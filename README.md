@@ -88,7 +88,7 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## <h2>GitHub Stats</h2>
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 </div>
 
-<h2 align="center">📈 Activity Graph</h2>
+## <h2>Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
