@@ -47,20 +47,24 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 ## <h2>Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/midnightshady">
+  <a href="https://github.com/KurtisNfa">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaif-qureshi-999457339">
+  <a href="https://www.linkedin.com/in/kurtis-nfa-7a4770290/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kaifqureshi3672@gmail.com">
+  <a href="mailto:nfakurtis@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://kurtisdev.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=netlify" height="45" />
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+## <h2>Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
