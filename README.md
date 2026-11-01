@@ -66,25 +66,51 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 ## <h2>Tech Stack</h2>
 
+<!-- Web Development -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,git,github,vscode,html,css,c,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,php" />
 </p>
 
+<!-- E-commerce & CMS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/elementor/92003B" height="48" alt="Elementor" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/shopify/7AB55C" height="48" alt="Shopify" />
 </p>
+
+<!-- Programming Languages -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,bash" />
+</p>
+
+<!-- Database & Version Control -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" />
+</p>
+
+<!-- AI & Development Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=claude,vscode" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge" />
+</p>
+
+<!-- Backend, Cloud & Data -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,tensorflow" />
+</p>
+
+<!-- Design & Productivity -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=canva,ps,ai,word,excel,powerpoint" />
+</p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
