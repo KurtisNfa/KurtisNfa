@@ -39,7 +39,7 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&italic=true&lines=Nulla+dies+sine+codice." alt="Nulla dies sine codice." />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&duration=1&pause=9&color=FFFFFF&center=true&vCenter=true&width=600&italic=true&lines=Nulla+dies+sine+codice." alt="Nulla dies sine codice." />
 </p>
 
 <br clear="right"/>
