@@ -66,8 +66,6 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 
 ## <h2>Tech Stack</h2>
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,wordpress,php" />
