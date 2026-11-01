@@ -86,17 +86,11 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
 </p>
 
 <p align="center">
-  <i>Junior Developer | Always Learning, Always Building 🚀</i>
+  <i>🚀 Always Learning, Always Building.</i>
 </p>
 
 
 ---
-
-<p align="center">
-  <i>🚀 Junior Developer | Always Learning, Always Building.</i>
-</p>
-
-
 
 <h2 align="center">📊 GitHub Stats</h2>
 
