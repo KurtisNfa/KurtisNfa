@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer" alt="Junior Full Stack Developer" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%93%8DDakar,+Senegal" alt="Dakar, Senegal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&size=28&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=650&lines=%F0%9F%93%8DDakar,Senegal" alt="Dakar,Senegal" />
 </p>
 
 <p align="center">
@@ -85,9 +85,6 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
   <i>🚀 Always Learning, Always Building.</i>
 </p>
 
-
----
-
 ## <h2>GitHub Stats</h2>
 
 <div align="center">
@@ -102,8 +99,7 @@ Write clean shit. Grind like Elon. Keep building solutions. Find the One Piece.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=midnightshady&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
 
-### 
-<h2 align="center">⌘ Commit Activity</h2>
+## <h2>⌘ Commit Activity</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
